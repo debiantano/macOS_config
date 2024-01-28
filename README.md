@@ -1,5 +1,6 @@
 # Unix-conf
 ![unix.png](unix.png)
+![screen.png](screen.png)
 
 ### Configuracion gnome-terminal
 ```
