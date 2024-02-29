@@ -1,7 +1,6 @@
 # Screen
 ![bigsur1.png](bigsur1.png)
 ![bigsur2.png](bigsur2.png)
-![bspwm.png](bspwm.png)
 
 ### Config gnome-terminal
 ```
